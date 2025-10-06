@@ -1,0 +1,31 @@
+@startgantt
+
+printscale weekly
+Project starts the 2026-1-8
+language ja
+
+' ==== Phase 1 ====
+-- フェーズ1: 言語基礎 (第0-12週) --
+[Stroustrup本の読書] lasts 12 weeks and is colored in #C7D9F4
+[Stroustrup本の質疑応答] starts 1 weeks after [Stroustrup本の読書]'s start and lasts 11 weeks and is colored in #C7D9F4
+
+' ==== Phase 2 ====
+-- フェーズ2: C++コーディングルール (第12-20週) --
+[コーディングルールセミナー] starts after [Stroustrup本の読書]'s end and lasts 8 weeks and is colored in #C5E0B4
+
+' ==== Phase 3 ====
+-- フェーズ3: SOLID & デザインパターン (第20-32週) --
+[SOLIDセミナー] starts after [コーディングルールセミナー]'s end and lasts 3 weeks and is colored in #FFE699
+[デザインパターンセミナー] starts after [SOLIDセミナー]'s end and lasts 8 weeks and is colored in #FFE699
+
+' ==== Phase 4 ====
+-- フェーズ4: プロジェクト統合 (第32-44週) --
+[CからC++移行] starts after [デザインパターンセミナー]'s end and lasts 4 weeks and is colored in #F8CBAD
+[メトリクス] starts after [CからC++移行]'s end and lasts 3 weeks and is colored in #F8CBAD
+[静的解析] starts after [CからC++移行]'s end and lasts 3 weeks and is colored in #F8CBAD
+[UT導入] starts after [静的解析]'s end and lasts 4 weeks and is colored in #F8CBAD
+[カバレッジ] starts after [UT導入]'s end and lasts 3 weeks and is colored in #F8CBAD
+[動的解析] starts after [UT導入]'s end and lasts 3 weeks and is colored in #F8CBAD
+
+@endgantt
+
