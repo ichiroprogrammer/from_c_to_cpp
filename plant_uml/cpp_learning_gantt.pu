@@ -1,5 +1,7 @@
 @startgantt
 
+scale max 700 width
+
 printscale weekly
 Project starts the 2026-1-8
 language ja

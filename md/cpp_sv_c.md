@@ -39,13 +39,13 @@
 
 ## C++習熟WBS
 
-![WBS](./cpp_learning_wbs.png)
+![WBS](plant_uml/cpp_learning_wbs.png)
 
 ---
 
 ## C++習熟プラン
 
-![WBS](./cpp_learning_gantt.png)
+![WBS](plant_uml/cpp_learning_gantt.png)
 
 [Stroustrup本](---)
 

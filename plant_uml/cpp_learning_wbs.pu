@@ -1,5 +1,7 @@
 @startwbs
 
+scale max 700 width
+
 +[#DeepSkyBlue] C++学習ロードマップ
 ++[#SkyBlue] シンタックス学習(3ヶ月)
 +++[#Pink] ストラウストラップ本\n(1H/day)
