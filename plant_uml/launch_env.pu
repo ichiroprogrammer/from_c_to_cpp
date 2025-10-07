@@ -1,0 +1,19 @@
+@startgantt
+
+scale max 700 width
+printscale weekly
+Project starts the 2026-1-1
+language ja
+
+-- チームの学習と並列に行う環境立ち上げ --
+[ビルドシステム] lasts 1 weeks and is colored in #F8CBAD
+[.c -> .cpp] starts after [ビルドシステム]'s end and lasts 3 weeks and is colored in #F8CBAD
+[メトリクス] starts after [.c -> .cpp]'s end and lasts 2 weeks and is colored in #F8CBAD
+[静的解析] starts after [.c -> .cpp]'s end and lasts 2 weeks and is colored in #F8CBAD
+[UT導入] starts after [静的解析]'s end and lasts 2 weeks and is colored in #F8CBAD
+[カバレッジ] starts after [UT導入]'s end and lasts 2 weeks and is colored in #F8CBAD
+[動的解析] starts after [UT導入]'s end and lasts 2 weeks and is colored in #F8CBAD
+@endgantt
+
+
+

@@ -57,7 +57,7 @@
 
 ## コーディングルール
 [コーディングルール](https://github.com/ichiroprogrammer/cpp_docs/blob/main/comprehensive_cpp/V20.08/html/)
-から**comprehensive_cpp.html**をダウンロードすることで、**comprehensive_cpp.html**を入手できる。
+から**comprehensive_cpp.html**を入手できる。
 
 **comprehensive_cpp.html**の以下を読む必要がある。
 
@@ -69,7 +69,7 @@
 
 ## OOD設計
 [OOD設計](https://github.com/ichiroprogrammer/cpp_docs/tree/main/deep_cpp/V20.08/html)
-から**deep_cpp.html**をダウンロードすることで、**deep_cpp.html**を入手できる。
+から**deep_cpp.html**を入手できる。
 
 **deep_cpp.html**の以下を読む必要がある。
 

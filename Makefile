@@ -13,4 +13,6 @@ VPATH=./md:
 
 MDS:= from_c_to_cpp_intro.md c_vs_cpp.md cpp_learning.md bibliography.md
 
+MD_SC:=
+
 include deep/make/md.mk
