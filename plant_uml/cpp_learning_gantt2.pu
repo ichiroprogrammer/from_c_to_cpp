@@ -1,7 +1,6 @@
 @startgantt
 
-scale max 750 width
-
+scale max 700 width
 printscale weekly
 Project starts the 2026-1-8
 language ja
@@ -20,5 +19,14 @@ language ja
 [SOLIDセミナー] starts after [コーディングルールセミナー]'s end and lasts 3 weeks and is colored in #FFE699
 [デザインパターンセミナー] starts after [SOLIDセミナー]'s end and lasts 8 weeks and is colored in #FFE699
 
+' ==== 並行作業 ====
+-- チームの学習と並列に行う環境立ち上げ (第12-24週) --
+[CからC++移行] lasts 4 weeks and is colored in #F8CBAD
+[メトリクス] starts after [CからC++移行]'s end and lasts 3 weeks and is colored in #F8CBAD
+[静的解析] starts after [CからC++移行]'s end and lasts 3 weeks and is colored in #F8CBAD
+[UT導入] starts after [静的解析]'s end and lasts 4 weeks and is colored in #F8CBAD
+[カバレッジ] starts after [UT導入]'s end and lasts 3 weeks and is colored in #F8CBAD
+[動的解析] starts after [UT導入]'s end and lasts 3 weeks and is colored in #F8CBAD
 @endgantt
+
 
