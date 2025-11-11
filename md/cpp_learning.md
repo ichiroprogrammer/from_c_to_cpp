@@ -279,6 +279,8 @@ ___
 - コメント
 - アーキテクチャ
 
+---
+
 ## OOD設計
 [OOD設計](https://github.com/ichiroprogrammer/cpp_docs/blob/main/comprehensive_cpp/V20.11/html/)
 のすべてのファイルをgit cloneする必要がある。
