@@ -8,12 +8,12 @@ language ja
 
 ' ==== Phase 1 ====
 -- フェーズ1: 言語基礎 (第0-12週) --
-[Stroustrup本の読書] lasts 12 weeks and is colored in #C7D9F4
-[Stroustrup本の質疑応答] starts 1 weeks after [Stroustrup本の読書]'s start and lasts 11 weeks and is colored in #C7D9F4
+[プログラミング言語C++] lasts 12 weeks and is colored in #C7D9F4
+[プログラミング言語C++ - 質疑応答] starts 1 weeks after [プログラミング言語C++]'s start and lasts 11 weeks and is colored in #C7D9F4
 
 ' ==== Phase 2 ====
 -- フェーズ2: C++コーディングルール (第12-20週) --
-[コーディングルールセミナー] starts after [Stroustrup本の読書]'s end and lasts 8 weeks and is colored in #C5E0B4
+[コーディングルールセミナー] starts after [プログラミング言語C++]'s end and lasts 8 weeks and is colored in #C5E0B4
 
 ' ==== Phase 3 ====
 -- フェーズ3: SOLID & デザインパターン (第20-32週) --
@@ -21,7 +21,7 @@ language ja
 [デザインパターンセミナー] starts after [SOLIDセミナー]'s end and lasts 8 weeks and is colored in #FFE699
 
 -- チームの学習と並列に行う環境立ち上げ --
-[ビルドシステム] starts after [Stroustrup本の読書]'s end and lasts 1 weeks and is colored in #F8CBAD
+[ビルドシステム] starts after [プログラミング言語C++]'s end and lasts 1 weeks and is colored in #F8CBAD
 [.c -> .cpp] starts after [ビルドシステム]'s end and lasts 3 weeks and is colored in #F8CBAD
 [メトリクス] starts after [.c -> .cpp]'s end and lasts 2 weeks and is colored in #F8CBAD
 [静的解析] starts after [.c -> .cpp]'s end and lasts 2 weeks and is colored in #F8CBAD

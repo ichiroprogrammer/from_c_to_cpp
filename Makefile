@@ -11,7 +11,7 @@ MD_GEN:=./md_gen/export/py
 # VPATH=./md:dir1:dir2
 VPATH=./md:
 
-MDS:= from_c_to_cpp_intro.md c_vs_cpp.md cpp_learning.md bibliography.md
+MDS:=from_c_to_cpp_intro.md c_vs_cpp.md cpp_launching.md cpp_learning.md
 
 MD_SC:=
 
