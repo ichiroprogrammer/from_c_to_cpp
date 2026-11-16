@@ -1,2 +1,8 @@
 *
 !.gitignore
+!c_vs_cpp.md
+!cpp_launching.md
+!cpp_learning.md
+!db.json
+!from_c_to_cpp.md
+!from_c_to_cpp_intro.md
